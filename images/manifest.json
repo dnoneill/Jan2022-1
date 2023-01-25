@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1522,
+    "id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550/canvas/",
+    "label" : {
+      "none" : [ "antlitz.ninja.1569957840550" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 48,
+              "height" : 48
+            }, {
+              "width" : 96,
+              "height" : 96
+            }, {
+              "width" : 191,
+              "height" : 191
+            }, {
+              "width" : 381,
+              "height" : 381
+            }, {
+              "width" : 761,
+              "height" : 761
+            }, {
+              "width" : 1522,
+              "height" : 1522
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1522,
+            "@id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1522
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1522,
+          "id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1522
+        },
+        "target" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550/canvas/"
+      } ]
+    } ],
+    "height" : 1522
+  }, {
     "width" : 2048,
     "id" : "https://iiif-test.github.io/Jan2022/images/image00049/canvas/",
     "label" : {
