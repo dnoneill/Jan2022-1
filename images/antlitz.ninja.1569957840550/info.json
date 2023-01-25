@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 48,
+    "height" : 48
+  }, {
+    "width" : 96,
+    "height" : 96
+  }, {
+    "width" : 191,
+    "height" : 191
+  }, {
+    "width" : 381,
+    "height" : 381
+  }, {
+    "width" : 761,
+    "height" : 761
+  }, {
+    "width" : 1522,
+    "height" : 1522
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1522,
+  "@id" : "https://dnoneill.github.io/Jan2022-1/images/antlitz.ninja.1569957840550",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1522
+}
